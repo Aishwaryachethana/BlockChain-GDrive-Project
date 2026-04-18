@@ -73,3 +73,16 @@ Designed for learning and prototype purposes
 
 ⭐ Final Note
 AA Drive is more than just a project — it represents my step into the world of decentralized applications (dApps) and my commitment to learning cutting-edge technologies.
+
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
